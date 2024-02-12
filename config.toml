@@ -1,0 +1,4 @@
+baseURL = 'https://reparatii-aer-conditionat.recomand.app/'
+languageCode = 'ro-ro'
+title = 'Reparatii Aer Conditionat'
+theme = 'ananke'
